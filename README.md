@@ -17,9 +17,15 @@ Este projeto implementa um chatbot que responde a perguntas com base em conteúd
 2. Coloque seu PDF em `inputs/artigos.pdf` (ou faça upload pela interface)
 3. Crie (ou ative) um ambiente virtual (opcional, mas recomendado):
    python -m venv .venv
+
+   ```bash
    source .venv/bin/activate # Linux/macOS
+   ```
+   
+    ```bash
    .venv\\Scripts\\activate # Windows
-4. Instale as dependências:
+   ```
+5. Instale as dependências:
 
 ```bash
 pip install -r requirements.txt
