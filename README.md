@@ -16,10 +16,10 @@ Este projeto implementa um chatbot que responde a perguntas com base em conteúd
 1. Crie uma pasta chamada `inputs/`
 2. Coloque seu PDF em `inputs/artigos.pdf` (ou faça upload pela interface)
 3. Crie (ou ative) um ambiente virtual (opcional, mas recomendado):
-   python -m venv .venv
+    python -m venv .venv
 
    ```bash
-   source .venv/bin/activate # Linux/macOS
+   .venv/bin/activate # Linux/macOS
    ```
    
     ```bash
